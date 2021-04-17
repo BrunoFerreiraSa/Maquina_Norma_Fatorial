@@ -1,5 +1,5 @@
 # Maquina_Norma_Fatorial
-Implementação de uma programa de resolução de fatorial para maquina Norma, Disciplina Teoria da Computação - UFERSA
+Implementação de um programa de resolução de fatorial para maquina Norma, Disciplina Teoria da Computação - UFERSA
 
 
 executar o codigo no [dartpad](https://dartpad.dev/dart?null_safety=true)
